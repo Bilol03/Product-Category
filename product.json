@@ -1,0 +1,20 @@
+[
+    {
+        "id": 9610,
+        "productName": "Osh",
+        "count": 2,
+        "category": "foods"
+    },
+    {
+        "id": 6530,
+        "productName": "Hot-Dog",
+        "count": 2,
+        "category": "foods"
+    },
+    {
+        "id": 3670,
+        "productName": "Samsung",
+        "count": 1,
+        "category": "electronics"
+    }
+]
